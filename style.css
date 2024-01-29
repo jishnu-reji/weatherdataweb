@@ -1,0 +1,22 @@
+.c1{
+    background-image: url(./images/hot-air-balloon.jpg);
+}
+
+.c2{
+    background-color: gray;
+}
+
+.h{
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.de{
+    margin-top: 255px;
+}
+
+.head1{
+    font-weight: 800;
+    margin-top: 20px;
+}
